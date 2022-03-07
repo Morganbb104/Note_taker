@@ -1,0 +1,23 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "AS A small business owner I WANT to be able to write and save notes SO THAT I can organize my thoughts and keep track of tasks I need to complete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morganbb104/Note_taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morganbb104/Note_taker/issues"
+  },
+  "homepage": "https://github.com/Morganbb104/Note_taker#readme",
+  "devDependencies": {
+    "mocha": "^9.2.1"
+  }
+}
