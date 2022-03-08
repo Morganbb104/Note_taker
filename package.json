@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Morganbb104/Note_taker#readme",
   "devDependencies": {
     "mocha": "^9.2.1"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
   }
 }
