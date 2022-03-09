@@ -33,7 +33,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 2. `Note Page`
 
-2. `Note Page`
+2. `Note video`
 
 ### Language
 ```md
