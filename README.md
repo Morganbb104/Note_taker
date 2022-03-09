@@ -1,6 +1,9 @@
 # Note_taker
 AS A small business owner I WANT to be able to write and save notes SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
+# Live_Link
+https://notetaker0308.herokuapp.com/notes
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
