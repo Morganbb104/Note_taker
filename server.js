@@ -1,8 +1,7 @@
 const express = require("express");
 const path = require("path");
 const fs = require("fs");
-const uuid = require("uuid");
-// const { DH_CHECK_P_NOT_SAFE_PRIME, SSL_OP_SSLEAY_080_CLIENT_DH_BUG } = require("constants");
+const uuid = require("uuid"); // use uuid to create the id automatically
 
 const app = express();
 var PORT = process.env.PORT || 3001;
