@@ -33,7 +33,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 1. `Home Page`
-![HOME](https://github.com/Morganbb104/Note_taker/blob/main/Assets/11-express-homework-demo-01.png)
+![HOME](https://github.com/Morganbb104/Note_taker/blob/main/Assets/home_page.jpg)
 
 2. `Note Page`
 ![NOTE](https://github.com/Morganbb104/Note_taker/blob/main/Assets/note_page.jpg)
