@@ -37,6 +37,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 2. `Note video`
 https://github.com/Morganbb104/Note_taker/blob/main/Assets/demo_video.mp4
 
+
+
+https://user-images.githubusercontent.com/33117688/157354699-aa84a70d-94c4-4a17-be35-558110b41507.mp4
+
+
+
 ### Language
 ```md
 * HTML
